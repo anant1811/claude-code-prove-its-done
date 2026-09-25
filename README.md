@@ -2,7 +2,7 @@
 
 **Make Claude Code prove its work in a real browser before it's allowed to say "done".**
 
-▶️ **Watch the video:** _[YouTube link coming soon]_
+▶️ **Watch the video:** [Your AI Agent Is Lying When It Says "Done"](https://youtu.be/wRdAVLnn58w)
 
 ---
 
