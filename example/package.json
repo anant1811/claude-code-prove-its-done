@@ -1,0 +1,11 @@
+{
+  "name": "flat-splitter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs",
+    "verify": "VERIFY_URL=http://localhost:4173 VERIFY_START='node server.mjs' node verify/verify.mjs"
+  }
+}
